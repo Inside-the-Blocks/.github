@@ -1,12 +1,9 @@
-## Hi there 👋
+Inside the Blocks is a blockchain and data organization focused on cryptography-related projects. We have been operating and collecting information since 2023.
 
-<!--
+We love open source. We support many open-source projects, protocols, chains, developers, and organizations.
 
-**Here are some ideas to get you started:**
+## Our contributions
+- Testnet for [Gravity Bridge](https://www.gravitybridge.net/)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Our Research
+- Stablecoins & RWA
